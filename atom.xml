@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bsll233.github.io</id>
+    <title>Gridea</title>
+    <updated>2023-11-22T05:37:52.877Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bsll233.github.io"/>
+    <link rel="self" href="https://bsll233.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://bsll233.github.io/images/avatar.png</logo>
+    <icon>https://bsll233.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[常用的机场]]></title>
+        <id>https://bsll233.github.io/post/常用的机场/</id>
+        <link href="https://bsll233.github.io/post/常用的机场/">
+        </link>
+        <updated>2023-01-19T02:58:18.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="跑路云">跑路云</h4>
+<p>https://paoluz.link/auth/loginnew</p>
+<h4 id="一元机场">一元机场</h4>
+<p>https://xn--4gq62f52gdss.com/#/login</p>
+<h4 id="白嫖机场">白嫖机场</h4>
+<p>https://paolu.pics/</p>
+<h4 id="赔钱机场">赔钱机场</h4>
+<p>https://xn--mes358aby2apfg.com/#/login</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub加速访问]]></title>
+        <id>https://bsll233.github.io/post/GitHub加速访问/</id>
+        <link href="https://bsll233.github.io/post/GitHub加速访问/">
+        </link>
+        <updated>2023-01-18T11:43:35.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="第一步">第一步</h3>
+<p>打开 <code>IPAddress.com</code> 网站，查询github.com对应的 IP 地址</p>
+<h3 id="第二步">第二步</h3>
+<p>修改本地电脑系统hosts文件</p>
+<ul>
+<li>windows: C:/Windows/System32/drivers/etc</li>
+<li>linux: /etc/hosts</li>
+</ul>
+<p>直接在最后加入以下代码：</p>
+<pre><code class="language-bash">192.30.253.112 github.com
+</code></pre>
+<h3 id="第三步">第三步</h3>
+<p>刷新系统dns缓存(Windows)</p>
+<p><code>Linux跳过该步骤</code></p>
+<p>用 WIN+R 快捷键打开运行窗口，输入命令：cmd 并回车进入命令行窗口。 接着输入命令：ipconfig /flushdns 回车后执行刷新本地 dns 缓存数据即可。</p>
+]]></content>
+    </entry>
+</feed>
